@@ -8,3 +8,7 @@ commits, and pull requests on GitHub
 
 I am learning how to use branches,
 commits, and pull requests on GitHub.
+## What I am learning
+
+I am learning how to use branches,
+commits, and pull requests on GitHub.
